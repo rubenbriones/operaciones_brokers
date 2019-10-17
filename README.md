@@ -1,5 +1,5 @@
 # operaciones_brokers
-Programa en Java que recopila las operaciones de los broókeres españoles (145 brókeres), y las cotizaciones de las acciones, para posteriormente graficarlas y ver de que lado se están posicionando.
+Programa en Java que recopila las operaciones de los brókeres españoles (145 brókeres), y las cotizaciones de las acciones, para posteriormente graficarlas y ver de que lado se están posicionando.
 
 La información de las negociaciones de los brókeres se extrae de la web [VisualEconomy](http://www.visualeconomy.com) y la de las cotizaciones de las acciones de la web de [Bolsa Madrid](http://www.bolsamadrid.es/esp/aspx/Mercados/Precios.aspx?mercado=MC).
 
